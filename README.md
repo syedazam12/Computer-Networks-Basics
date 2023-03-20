@@ -7,7 +7,7 @@ This repository contains fundamental computer network labwork that is implemente
 
 ## Content
 
-The Jupyter Notebook in this repository will cover the follwoing topics, over the course of time:
+The Jupyter Notebook in this repository will cover the following topics, over the course of time:
 - Overview of Computer Networks
 - Network topologies
 - OSI and TCP/IP Models
